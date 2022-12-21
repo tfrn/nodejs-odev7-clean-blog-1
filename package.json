@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-odev7-clean-blog-1",
+  "version": "1.0.0",
+  "description": "patika.dev node.js dersi 7. ödevi, || clean blog part 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tfrn/nodejs-odev7-clean-blog-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tfrn/nodejs-odev7-clean-blog-1/issues"
+  },
+  "homepage": "https://github.com/tfrn/nodejs-odev7-clean-blog-1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "prettier": "2.8.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
